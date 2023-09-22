@@ -1,6 +1,6 @@
 # learnReact
 
-## Environment Setup
+## 🍬 Environment Setup
 ### :point_right: NVM - Node Version Manager
 - NVM needed to install Node.js and allows you to switch among different Node versions as needed by project
 - ❓what are some version issues for Node.js since we need this NVM
@@ -51,4 +51,15 @@
 ### :point_right: React Developer Tools
 - Install Browser Extension: [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
+## 🍬 Initialize React App
+- Create "my-react-app" with starter package
+  ```
+  npx create-react-app my-react-app
+  ```
 
+## 🍬 Run React App
+- Run react app locally
+  ```
+  cd my-react-app
+  npm start
+  ```
