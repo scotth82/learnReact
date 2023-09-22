@@ -47,4 +47,8 @@
   Use Quick Open (press Ctrl/Cmd+P)
   Paste in ext install esbenp.prettier-vscode
   ```
+  
+### :point_right: React Developer Tools
+- Install Browser Extension: React Developer Tools
+
 
