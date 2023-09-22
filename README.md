@@ -1,6 +1,6 @@
 # learnReact
 
-## Setup
+## Environment Setup
 ### :point_right: NVM - Node Version Manager
 - NVM needed to install Node.js and allows you to switch among different Node versions as needed by project
 - ❓what are some version issues for Node.js since we need this NVM
@@ -26,7 +26,7 @@
   ```
 
 ### :point_right: Node.js
-- :question: what is Node.js? what does it do? some client side react exeuction thing?
+- :question: what is Node.js? what does it do? some client side react execution thing?
 - https://nodejs.org/en
 - version: 20.7.0
 - install:
@@ -36,5 +36,15 @@
 - check version
   ```
   node -v
+  ```
+- NPM - Node Package Manager
+- NPX - Node Package eXecute 
+
+### :point_right: VSCode
+- Prettier Code Reformatter Install
+  ```
+  Open VSCode
+  Use Quick Open (press Ctrl/Cmd+P)
+  Paste in ext install esbenp.prettier-vscode
   ```
 
