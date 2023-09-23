@@ -1,6 +1,6 @@
 # learnReact
 
-## 🍬 Environment Setup
+## 🍬 [Environment Setup](0.1_enviornment_setup.md)
 ### :point_right: NVM - Node Version Manager
 - NVM needed to install Node.js and allows you to switch among different Node versions as needed by project
 - ❓what are some version issues for Node.js since we need this NVM
