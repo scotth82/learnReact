@@ -4,3 +4,4 @@
 ## 🍬 [Project Structure](0.2_project_structure.md)
 ## 🍬 [Components](0.3_components.md)
 ## 🍬 [JSX](0.4_jsx.md)
+## 🍬 [Props](0.5_props.md)
